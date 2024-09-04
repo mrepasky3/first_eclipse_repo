@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_qoxq4GrHEe-OMf1JFtuAhw" type="PapyrusUMLComponentDiagram" name="FirstComponent" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_sTMlUGrHEe-OMf1JFtuAhw" type="shadowRectangle" fontName="Segoe UI" description="A Component" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sTRd0GrHEe-OMf1JFtuAhw" source="PapyrusCSSForceValue">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sTRd0WrHEe-OMf1JFtuAhw" key="lineColor" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sTRd0mrHEe-OMf1JFtuAhw" key="fontHeight" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sTRd02rHEe-OMf1JFtuAhw" key="bold" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sTRd1GrHEe-OMf1JFtuAhw" key="italic" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sTRd1WrHEe-OMf1JFtuAhw" key="fontColor" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sTRd1mrHEe-OMf1JFtuAhw" key="fillColor" value="true"/>
+    </eAnnotations>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_sTT6EGrHEe-OMf1JFtuAhw" type="DiagramName">
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_sTUhIGrHEe-OMf1JFtuAhw" type="Description">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:TextStyle" xmi:id="_sTMlUWrHEe-OMf1JFtuAhw"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_sTMlUmrHEe-OMf1JFtuAhw"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sTMlU2rHEe-OMf1JFtuAhw" x="500" y="200" width="211"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_qoxq4WrHEe-OMf1JFtuAhw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_qoxq4mrHEe-OMf1JFtuAhw"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_qoxq42rHEe-OMf1JFtuAhw" diagramKindId="org.eclipse.papyrus.uml.diagram.component.root.package">
+    <owner xmi:type="uml:Model" href="FirstProject.uml#_sv6yQGoyEe-plva9DJ2BKA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="FirstProject.uml#_sv6yQGoyEe-plva9DJ2BKA"/>
+</notation:Diagram>
